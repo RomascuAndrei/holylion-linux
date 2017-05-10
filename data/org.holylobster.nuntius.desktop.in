@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Nuntius
+GenericName=Nuntius
+X-GNOME-FullName=Nuntius
+_Comment=Deliver notifications from your phone or tablet to your computer over Bluetooth
+_Keywords=notifications;
+Exec=nuntius
+Terminal=false
+Type=Application
+Icon=nuntius
+Categories=GNOME;GTK;Utility;
+StartupNotify=true
+DBusActivatable=true
+X-GNOME-Autostart-enabled=true
+X-GNOME-UsesNotifications=true

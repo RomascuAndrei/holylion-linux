@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Dušan Kazik <prescott66@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nuntius-linux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-15 17:00+0200\n"
+"PO-Revision-Date: 2015-03-20 18:28+0100\n"
+"Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: ../data/org.holylobster.nuntius.appdata.xml.in.h:1
+msgid ""
+"Nuntius delivers notifications from your phone or tablet to your computer "
+"over Bluetooth."
+msgstr ""
+"Nuntius doručí oznámenia z vášho telefónu alebo tabletu do vášho počítača "
+"cez Bluetooth."
+
+#: ../data/org.holylobster.nuntius.appdata.xml.in.h:2
+msgid ""
+"To use Nuntius you will need to install a companion tool on your phone or "
+"tablet and pair it via Bluetooth."
+msgstr ""
+"Na používanie programu Nuntius budete musieť vo vašom telefóne alebo tablete "
+"nainštalovať spoločný nástroj a spárovať ho cez Bluetooth."
+
+#: ../data/org.holylobster.nuntius.desktop.in.h:1
+msgid ""
+"Deliver notifications from your phone or tablet to your computer over "
+"Bluetooth"
+msgstr ""
+"Doručenie oznámení z vášho telefónu alebo tabletu do vášho počítača cez "
+"Bluetooth"
+
+#: ../data/org.holylobster.nuntius.desktop.in.h:2
+msgid "notifications;"
+msgstr "oznámenia;upozornenia;"
+
+#: ../data/org.holylobster.nuntius.gschema.xml.in.h:1
+msgid "Window state"
+msgstr "Stav okna"
+
+#: ../data/org.holylobster.nuntius.gschema.xml.in.h:2
+msgid "State of the window, e.g. maximized."
+msgstr "Stav okna, napr. maximalizované."
+
+#: ../data/org.holylobster.nuntius.gschema.xml.in.h:3
+msgid "Window width and height"
+msgstr "Šírka a výška okna"
+
+#: ../data/org.holylobster.nuntius.gschema.xml.in.h:4
+msgid "Width and height of the window."
+msgstr "Šírka a výška okna."
+
+#: ../src/application.vala:144
+msgid "Connect to a specific server"
+msgstr ""
+
+#: ../src/application.vala:297
+msgid "Certificate Fingerprint"
+msgstr ""
+
+#: ../src/application.vala:300
+msgid "_OK"
+msgstr ""
+
+#: ../src/application.vala:469 ../src/resources/ui/window.ui.h:1
+msgid "Nuntius"
+msgstr "Nuntius"
+
+#: ../src/application.vala:472
+msgid ""
+"Deliver notifications from your phone or tablet to your computer over "
+"Bluetooth."
+msgstr ""
+"Doručenie oznámení z vášho telefónu alebo tabletu do vášho počítača cez "
+"Bluetooth."
+
+#: ../src/application.vala:477
+msgid "translator-credits"
+msgstr "Dušan Kazik <prescott66@gmail.com>, 2015"
+
+#: ../src/appslist.vala:75
+#, fuzzy
+msgid "Blacklist this application"
+msgstr "Všetky aplikácie"
+
+#. namespace Nuntius
+#. ex:set ts=4 et:
+#: ../src/resources/gtk/menus.ui.h:1
+msgid "Show _QR Code"
+msgstr ""
+
+#: ../src/resources/gtk/menus.ui.h:2
+msgid "_About"
+msgstr "_O programe"
+
+#: ../src/resources/ui/appslistpanel.ui.h:1
+msgid "Type to search"
+msgstr "Text na vyhľadanie"
+
+#: ../src/resources/ui/window.ui.h:2
+msgid "All Applications"
+msgstr "Všetky aplikácie"
+
+#. FIXME: just a test message until we have UI to type the reply
+#: ../src/smsnotification.vala:63
+msgid "Reply"
+msgstr ""
